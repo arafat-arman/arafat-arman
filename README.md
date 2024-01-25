@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e478mam7xdtwk8mshon7o3ogy5tjcgjmylio6bf9c3u&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="">
+<img src="https://media3.giphy.com/media/zOvBKUUEERdNm/200w.webp?cid=ecf05e47x3j1qc238rqzinv3wx1v0gmpyio5s6ih9l1c6fdp&ep=v1_gifs_search&rid=200w.webp&ct=g" alt="">
 <!--
 **arafat-arman/arafat-arman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
