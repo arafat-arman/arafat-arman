@@ -1,5 +1,3 @@
-<img src="https://vod-progressive.akamaized.net/exp=1706904476~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F2572%2F21%2F537861011%2F2547759924.mp4~hmac=4aa740fed1f8e251d4eb2dba82a0d82035b989c563483ca41279bd5027a69d70/vimeo-prod-skyfire-std-us/01/2572/21/537861011/2547759924.mp4" alt="">
-
 <img src="https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif" alt="">
 <!--
 **arafat-arman/arafat-arman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
